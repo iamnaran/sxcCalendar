@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "524147150004",
+    "firebase_url": "https://sxc-calendar.firebaseio.com",
+    "project_id": "sxc-calendar",
+    "storage_bucket": "sxc-calendar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524147150004:android:7fad2cd5c320859a",
+        "android_client_info": {
+          "package_name": "com.example.whitewalkers.testingone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524147150004-3b6anhti0d3ioqhl62h99pq4950d11rb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmCQmr000ep98Y0d4KsI3TItznaw2OpeU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
